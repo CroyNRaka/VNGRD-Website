@@ -3,3 +3,6 @@ VNGRD GRAY - #1e1c1d
 VISUALS PINK - #fd93ff
 TRIALS RED - #ff4834
 ACADEMY CYAN - #1fcfff
+
+Font: https://befonts.com/druk-font-family.html
+specifically Druk Text Super Italic and Druk Text Medium Italic 
